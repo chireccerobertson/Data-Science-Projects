@@ -13,9 +13,9 @@ This dataset was obtained from HiCounselor.com
 - Marital (text) - Customer's marital status
 - Educatiion_qual (text) - Customer's qualification level (education)
 - Call_type (text) - type of call customer received
-- Day (int) - Day number
-- Mon (Month) - Month
+- Day (int) - Day number customer was contacted
+- Mon (Month) - Month customer was contacted
 - Dur (int) - duration of call 
 - Num_calls (int) - Number of times customer was called 
-- Prev_outcome (text) - Previous outcome 
+- Prev_outcome (text) - Previous outcome of call
 - y (text) -  
