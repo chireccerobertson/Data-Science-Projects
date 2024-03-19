@@ -11,11 +11,11 @@ This dataset was obtained from HiCounselor.com
 - Age (int) - Age of customer
 - Job(text) - Job title of Customer
 - Marital (text) - Customer's marital status
-- Educatiion_qual (text) - Customer's qualification level (education)
-- Call_type (text) - type of call customer received
+- Educatiion_qual (text) - Customers' education levels
+- Call_type (text) - Type of call customer received
 - Day (int) - Day number customer was contacted
-- Mon (Month) - Month customer was contacted
-- Dur (int) - duration of call 
+- Mon (Month) - Monnths concerning customer interactions
+- Dur (int) - Duration of call 
 - Num_calls (int) - Number of times customer was called 
-- Prev_outcome (text) - Previous outcome of call
-- y (text) -  
+- Prev_outcome (text) - previous outcomes from customer interactions
+- y (text) 
