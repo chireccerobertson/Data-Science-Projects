@@ -15,7 +15,7 @@ This dataset was obtained from HiCounselor.com
 - Call_type (text) - 
 - Day (int) - Day number
 - Mon (Month) - Month
-- Dur (int) - University customer attended 
+- Dur (int) - duration of call 
 - Num_calls (int) - Number of times customer was called 
 - Prev_outcome (text) - Previous outcome 
 - y (text) -  
