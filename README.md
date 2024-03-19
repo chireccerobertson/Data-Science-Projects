@@ -8,14 +8,14 @@ This project aims to analyze how insurance companies forecast customer behavior,
 This dataset was obtained from HiCounselor.com
 
 ### Attributes
-- Age (int) - Name of astronaut
-- Job(text) - Year of first mission 
-- Marital (text) - The identification number of the mission
-- Educatiion_qual (text) - Decreased, Retired, Active, or Management
-- Call_type (text) - DOB of astronaut
-- Day (int) - Where astronaut was born
-- Mon (Month) - Gender identity of the astronaut
+- Age (int) - Age of customer
+- Job(text) - Job title of Customer
+- Marital (text) - Customer's marital status
+- Educatiion_qual (text) - Customer's qualification level (education)
+- Call_type (text) - 
+- Day (int) - Day number
+- Mon (Month) - Month
 - Dur (int) - University astronaut attended 
-- Num_calls (int) - Undergraduate degree of astronaut 
-- Prev_outcome (text) - Graduate degree of astronaut 
-- y (text) - Military rank of the 
+- Num_calls (int) - Number of times customer was called 
+- Prev_outcome (text) - Previous outcome 
+- y (text) -  
