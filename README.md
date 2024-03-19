@@ -12,7 +12,7 @@ This dataset was obtained from HiCounselor.com
 - Job(text) - Job title of Customer
 - Marital (text) - Customer's marital status
 - Educatiion_qual (text) - Customer's qualification level (education)
-- Call_type (text) - 
+- Call_type (text) - type of call customer received
 - Day (int) - Day number
 - Mon (Month) - Month
 - Dur (int) - duration of call 
